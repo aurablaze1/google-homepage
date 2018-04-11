@@ -32,7 +32,7 @@ a:hover {
 	background-color: rgb(242, 242, 242);
 }
 
-.btn-align {
+.btn-align, .align-text {
 	display: block;
 	text-align: center;
 }
@@ -48,4 +48,5 @@ a:hover {
 	display: block;
 	width: 403px;
 	margin: 0 auto;
+	margin-bottom: 20px;
 }
