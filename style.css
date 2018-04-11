@@ -1,0 +1,42 @@
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+
+p {
+	color: rgb(34, 34, 34);
+	display: inline-block;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	height: 28px;
+	line-height: 28px;
+	width: 162.575px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.btn {
+	display: inline-block;
+	background-color: rgb(242, 242, 242);
+}
+
+.font {
+	color: rgb(0, 0, 0);
+	display: inline-block;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	height: 15.2px;
+}
+.search_bar {
+	display: block;
+	width: 403px;
+	margin: 0 auto;
+}
