@@ -1,3 +1,11 @@
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
 img {
 	display: block;
 	margin-left: auto;
@@ -17,14 +25,15 @@ p {
 
 ul {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
-a {
-	text-decoration: none;
-}
-
-a:hover {
-	text-decoration: underline;
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
 }
 
 .btn {
@@ -35,6 +44,18 @@ a:hover {
 .btn-align, .align-text {
 	display: block;
 	text-align: center;
+}
+
+.canada {
+	display: block;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
 }
 
 .font {
