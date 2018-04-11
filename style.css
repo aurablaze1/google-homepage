@@ -23,9 +23,18 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	text-decoration: underline;
+}
+
 .btn {
 	display: inline-block;
 	background-color: rgb(242, 242, 242);
+}
+
+.btn-align {
+	display: block;
+	text-align: center;
 }
 
 .font {
